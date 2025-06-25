@@ -6,7 +6,6 @@ python-decouple==3.8
 
 # Emotion Detection
 deepface==0.0.75
-tensorflow==2.11.0
 opencv-python==4.5.5.64
 
 # Sentiment Analysis
